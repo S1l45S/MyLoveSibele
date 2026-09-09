@@ -142,7 +142,7 @@ export default function Home() {
       titulo: "O Repositório Inicial",
       comando: "$ git init --bare ./nossa-historia",
       // Adicione o caminho das suas fotos aqui
-      foto: "/pictures/momento-1.jpeg", 
+      foto: "/MyLoveSibele/pictures/momento-1.jpeg", 
       descricao:
         "O ano era 2024, quando no dia 29 de Novembro nosso querido Brenninho trouxe a ideia de participarmos do BaneseLab e Iasmin sabiamente indicou você para o lugar dela. Mal sabíamos que ali estávamos inicializando a nossa incrivel historia.",
     },
@@ -152,7 +152,7 @@ export default function Home() {
       tag: "npm install",
       titulo: "Instalando as Dependências",
       comando: "$ npm i @vida/sibele --save-exact",
-      foto: "/pictures/momento-2.jpeg",
+      foto: "/MyLoveSibele/pictures/momento-2.jpeg",
       descricao:
         "Depois do Projeto do Banese, nós estávamos mais próximos. Esse foi o segundo show a que fomos juntos e, diferente do de Heitor Costa, dessa vez não teve fora e a gente dormiu junto naquela praça.",
     },
@@ -162,7 +162,7 @@ export default function Home() {
       tag: "git commit",
       titulo: "O Primeiro Commit",
       comando: '$ git commit -m "feat: primeiro commit do nosso sentimento"',
-      foto: "/pictures/momento-3.jpeg",
+      foto: "/MyLoveSibele/pictures/momento-3.jpeg",
       descricao:
         "Aqui não dava mais para negar, eu tava muito afim de você e como disse Iasmin você já tinha deixado na cara eu que era lerdo, e depois que eu voltei de viagem a gente ficou pela primeira vez.",
     },
@@ -172,7 +172,7 @@ export default function Home() {
       tag: "git branch --track",
       titulo: "Alinhando as Branches",
       comando: "$ git checkout -b conexao/aprofundando",
-      foto: "/pictures/momento-4.jpeg",
+      foto: "/MyLoveSibele/pictures/momento-4.jpeg",
       descricao:
         "Mais momentos juntos, cada dia que passava eu gostava ainda mais de você, aquele show de Wesley Safadão que fomos com bibia foi a prova disso quase explodi quando soube que tinha pessoas dando em cima de você. Eu tinha sido laçado.",
     },
@@ -182,7 +182,7 @@ export default function Home() {
       tag: "git merge",
       titulo: "Merge Sem Conflitos",
       comando: "$ git merge --no-ff feature/cumplicidade",
-      foto: "/pictures/momento-5.jpeg",
+      foto: "/MyLoveSibele/pictures/momento-5.jpeg",
       descricao:
         "Nós nem namorávamos e, mesmo assim, eu já te consultava para tudo o que ia fazer. Nesse mês, teve o ERBASE e, com ele, o momento em que você diz que decidiu que queria namorar comigo (eu já sabia que te queria bem antes disso)."
 ,
@@ -193,7 +193,7 @@ export default function Home() {
       tag: "deploy",
       titulo: "O Deploy para Produção",
       comando: "$ npm run build && vercel --prod",
-      foto: "/pictures/momento-6.jpeg",
+      foto: "/MyLoveSibele/pictures/momento-6.jpeg",
       descricao:
         "O deploy oficial, depois de uma conversa muito longa no WhatsApp e com você um pouquinho irritada, fez a gente decidir que estávamos namorando. É claro que ainda não era o pedido; eu não era maluco de deixar a gente sem ter um pedido decente.",
     },
@@ -203,7 +203,7 @@ export default function Home() {
       tag: "git commit",
       titulo: "Commit das Alianças",
       comando: '$ git commit -m "feat: entrega das alianças"',
-      foto: "/pictures/momento-7.jpeg",
+      foto: "/MyLoveSibele/pictures/momento-7.jpeg",
       descricao:
         "Como eu disse, não ia deixar a gente sem ter um pedido decente. Então, para comemorar dois meses de muito amor, finalmente veio a entrega das alianças, a representação física do nosso amor e da nossa incrível parceria.",
     },
@@ -213,7 +213,7 @@ export default function Home() {
       tag: "v1.0.0 (Release)",
       titulo: "Stable Release: Sempre Nós",
       comando: '$ git tag -a v1.0.0 -m "Versão mais estável e perfeita"',
-      foto: "/pictures/momento-8.jpeg",
+      foto: "/MyLoveSibele/pictures/momento-8.jpeg",
       descricao:
         "Chegamos aqui. Um ano depois do deploy, a versão só melhora, cheia de atualizações diárias de amor e a certeza absoluta de que você é a mulher da minha vida EU TE AMO MEU AMOR, FELIZ 1 ANO.",
     },
